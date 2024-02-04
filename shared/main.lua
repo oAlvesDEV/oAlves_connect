@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Debug = false -- mandar mensagem para CMD? true = SIM
+Config.Debug = true -- mandar mensagem para CMD? true = SIM
 
 Config.Webhook = 'TEU_WEBWOOK_DISCORD' -- copie e cole sua webhook
 Config.ServerName = 'oAlves Community' -- Titulo da Msg
